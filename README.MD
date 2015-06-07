@@ -1,6 +1,6 @@
 # FPA Spring-Boot Demo
 
-Beispiel Projekt für Spring Boo,  mit dem die Funktionsweise von Spring MVC anhand von zwei Controllern und einem Service veranschaulicht werden soll.
+Beispiel Projekt für Spring Boot, mit dem die Funktionsweise von Spring MVC anhand von zwei Controllern und einem Service veranschaulicht werden soll.
 
 ## Programmstart
 
